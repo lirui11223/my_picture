@@ -1,8 +1,8 @@
 # my_picture
 
-# 温馨提示1：我们的最新功能会优先在beta版发布，如果需要体验我们的beta版程序，可以到beta版项目地址获取我们的beta版程序，链接:https://github.com/lirui11223/my_pcture_beta
+温馨提示1：我们的最新功能会优先在beta版发布，如果需要体验我们的beta版程序，可以到beta版项目地址获取我们的beta版程序，链接:https://github.com/lirui11223/my_pcture_beta
 
-# 温馨提示2：v1.5版本起因为部分因素，所以将会提供zip压缩包，下载v1.5版本的可以跳过第三步
+温馨提示2：v1.5版本起因为部分因素，所以将会提供zip压缩包，下载v1.5版本的可以跳过第三步
 
 # 一.简介
 
